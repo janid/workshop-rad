@@ -34,11 +34,8 @@ See [`workshop_program.md`](workshop_program.md) for the full program with theor
 │   ├── Part1_Encoders.ipynb
 │   ├── Part2_Generative_Multimodal.ipynb
 │   └── Part3_Servers_Agents.ipynb
-├── speaker_notes/
-│   ├── Part1_Speaker_Notes.md
-│   ├── Part2_Speaker_Notes.md
-│   └── Part3_Speaker_Notes.md
 ├── workshop_program.md
+├── LICENSE.md
 └── README.md
 ```
 
@@ -84,16 +81,6 @@ The free tier is more than sufficient for the workshop.
 3. In Google Colab, click the **key icon** in the left sidebar (Secrets)
 4. Add a new secret named `GROQ_API_KEY` and paste your key
 5. Enable **Notebook access** for this secret
-
----
-
-## Speaker Notes
-
-Detailed notes for each practical session are in the `speaker_notes/` folder.
-Each file contains:
-- What to say before each code cell
-- Expected output with explanation
-- Concrete examples for exercises
 
 ---
 
